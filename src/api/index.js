@@ -1,4 +1,3 @@
-// Import axios for handling async requests
 import axios from 'axios';
 
 
