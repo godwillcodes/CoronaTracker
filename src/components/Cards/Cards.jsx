@@ -4,6 +4,8 @@ import CardComponent from './Card/Card';
 
 import styles from './Cards.module.css';
 
+// logic
+
 const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
   if (!confirmed) {
     return 'Loading...';
