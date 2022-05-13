@@ -3,7 +3,7 @@
 # Realtime Chat Application.
 
 <a href="https://tracking.gitads.io/?repo=project_corona_tracker">
- <img src="https://images.gitads.io/project_corona_tracker" alt="GitAds"/> 
+ <img src="https://images.gitads.io/project_corona_tracker" alt="GiAds"/> 
 </a>
 
 ### [Live Site](https://corona-track-godwill.netlify.app)
